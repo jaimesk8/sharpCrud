@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move.deps.json
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move.dll
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/ref/move.dll
+/home/jaime/exSO_PA/aula2/move/bin/Debug/net5.0/move.pdb
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.dll
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/ref/move.dll
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.pdb
+/home/jaime/exSO_PA/aula2/move/obj/Debug/net5.0/move.genruntimeconfig.cache

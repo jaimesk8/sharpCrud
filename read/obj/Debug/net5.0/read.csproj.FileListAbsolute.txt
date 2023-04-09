@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read.deps.json
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read.dll
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/ref/read.dll
+/home/jaime/exSO_PA/aula2/read/bin/Debug/net5.0/read.pdb
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.dll
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/ref/read.dll
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.pdb
+/home/jaime/exSO_PA/aula2/read/obj/Debug/net5.0/read.genruntimeconfig.cache

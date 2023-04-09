@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete.deps.json
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete.dll
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/ref/delete.dll
+/home/jaime/exSO_PA/aula2/delete/bin/Debug/net5.0/delete.pdb
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.dll
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/ref/delete.dll
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.pdb
+/home/jaime/exSO_PA/aula2/delete/obj/Debug/net5.0/delete.genruntimeconfig.cache
