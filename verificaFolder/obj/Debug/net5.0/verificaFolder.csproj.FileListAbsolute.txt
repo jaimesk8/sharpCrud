@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder.deps.json
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder.dll
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/ref/verificaFolder.dll
+/home/jaime/exSO_PA/aula2/verificaFolder/bin/Debug/net5.0/verificaFolder.pdb
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.dll
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/ref/verificaFolder.dll
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.pdb
+/home/jaime/exSO_PA/aula2/verificaFolder/obj/Debug/net5.0/verificaFolder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder.deps.json
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder.dll
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/ref/deleteFolder.dll
+/home/jaime/exSO_PA/aula2/deleteFolder/bin/Debug/net5.0/deleteFolder.pdb
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.dll
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/ref/deleteFolder.dll
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.pdb
+/home/jaime/exSO_PA/aula2/deleteFolder/obj/Debug/net5.0/deleteFolder.genruntimeconfig.cache
