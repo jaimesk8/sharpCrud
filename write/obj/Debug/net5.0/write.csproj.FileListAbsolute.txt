@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write.deps.json
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write.dll
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/ref/write.dll
+/home/jaime/exSO_PA/aula2/write/bin/Debug/net5.0/write.pdb
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.dll
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/ref/write.dll
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.pdb
+/home/jaime/exSO_PA/aula2/write/obj/Debug/net5.0/write.genruntimeconfig.cache

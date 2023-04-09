@@ -1,0 +1,16 @@
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.csproj.AssemblyReference.cache
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.AssemblyInfoInputs.cache
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.AssemblyInfo.cs
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.csproj.CoreCompileInputs.cache
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile.deps.json
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile.runtimeconfig.json
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile.runtimeconfig.dev.json
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile.dll
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/ref/createfile.dll
+/home/jaime/exSO_PA/aula2/createfile/bin/Debug/net5.0/createfile.pdb
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.dll
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/ref/createfile.dll
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.pdb
+/home/jaime/exSO_PA/aula2/createfile/obj/Debug/net5.0/createfile.genruntimeconfig.cache
